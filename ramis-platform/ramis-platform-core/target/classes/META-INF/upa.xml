@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<upa xmlns="http://github.com/thevpc/upa/upa-1.0.xsd" version="1.0">
+    <scan types="com.icon.ramis.**"/>
+    <connection>
+        <connectionstring>
+            derby:embedded://ramisdb;structure=create;username=ramis;password=ramis
+        </connectionstring>
+    </connection>
+</upa>

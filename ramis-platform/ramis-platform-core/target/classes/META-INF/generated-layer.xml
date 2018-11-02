@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="MapTopComponent.settings">
+                <!--com.icon.ramis.platform.core.MapTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.icon.ramis.platform.core.MapTopComponent"/>
+</settings>
+]]></file>
+            <file name="DriverTopComponent.settings">
+                <!--com.icon.ramis.platform.core.DriverTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.icon.ramis.platform.core.DriverTopComponent"/>
+</settings>
+]]></file>
+            <file name="pawTopComponent.settings">
+                <!--com.icon.ramis.platform.core.pawTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.icon.ramis.platform.core.pawTopComponent"/>
+</settings>
+]]></file>
+            <file name="NurseTopComponent.settings">
+                <!--com.icon.ramis.platform.core.NurseTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.icon.ramis.platform.core.NurseTopComponent"/>
+</settings>
+]]></file>
+            <file name="PatientTopComponent.settings">
+                <!--com.icon.ramis.platform.core.PatientTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.icon.ramis.platform.core.PatientTopComponent"/>
+</settings>
+]]></file>
+            <file name="AssignmentTopComponent.settings">
+                <!--com.icon.ramis.platform.core.AssignmentTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.icon.ramis.platform.core.AssignmentTopComponent"/>
+</settings>
+]]></file>
+            <file name="StreamingTopComponent.settings">
+                <!--com.icon.ramis.platform.core.StreamingTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.icon.ramis.platform.core.StreamingTopComponent"/>
+</settings>
+]]></file>
+            <file name="AmbulanceTopComponent.settings">
+                <!--com.icon.ramis.platform.core.AmbulanceTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.icon.ramis.platform.core.AmbulanceTopComponent"/>
+</settings>
+]]></file>
+            <file name="DoctorTopComponent.settings">
+                <!--com.icon.ramis.platform.core.DoctorTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.icon.ramis.platform.core.DoctorTopComponent"/>
+</settings>
+]]></file>
+            <file name="EquipmentTopComponent.settings">
+                <!--com.icon.ramis.platform.core.EquipmentTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.icon.ramis.platform.core.EquipmentTopComponent"/>
+</settings>
+]]></file>
+            <file name="CityTopComponent.settings">
+                <!--com.icon.ramis.platform.core.CityTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.icon.ramis.platform.core.CityTopComponent"/>
+</settings>
+]]></file>
+            <file name="HospitalTopComponent.settings">
+                <!--com.icon.ramis.platform.core.HospitalTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.icon.ramis.platform.core.HospitalTopComponent"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="topSlidingSide">
+                <file name="MapTopComponent.wstcref">
+                    <!--com.icon.ramis.platform.core.MapTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="MapTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+            <folder name="explorer">
+                <file name="DriverTopComponent.wstcref">
+                    <!--com.icon.ramis.platform.core.DriverTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="DriverTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+                <file name="NurseTopComponent.wstcref">
+                    <!--com.icon.ramis.platform.core.NurseTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="NurseTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+                <file name="PatientTopComponent.wstcref">
+                    <!--com.icon.ramis.platform.core.PatientTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="PatientTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+                <file name="AssignmentTopComponent.wstcref">
+                    <!--com.icon.ramis.platform.core.AssignmentTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="AssignmentTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+                <file name="AmbulanceTopComponent.wstcref">
+                    <!--com.icon.ramis.platform.core.AmbulanceTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="AmbulanceTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+                <file name="DoctorTopComponent.wstcref">
+                    <!--com.icon.ramis.platform.core.DoctorTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="DoctorTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+                <file name="EquipmentTopComponent.wstcref">
+                    <!--com.icon.ramis.platform.core.EquipmentTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="EquipmentTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+                <file name="CityTopComponent.wstcref">
+                    <!--com.icon.ramis.platform.core.CityTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="CityTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+                <file name="HospitalTopComponent.wstcref">
+                    <!--com.icon.ramis.platform.core.HospitalTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="HospitalTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+            </folder>
+            <folder name="bottomSlidingSide">
+                <file name="pawTopComponent.wstcref">
+                    <!--com.icon.ramis.platform.core.pawTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="pawTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+            <folder name="output">
+                <file name="StreamingTopComponent.wstcref">
+                    <!--com.icon.ramis.platform.core.StreamingTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="StreamingTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="com-icon-ramis-platform-core-MapTopComponent.instance">
+                <!--com.icon.ramis.platform.core.MapTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.icon.ramis.platform.core.MapTopComponent"/>
+                <attr name="preferredID" stringvalue="MapTopComponent"/>
+                <attr
+                    bundlevalue="com.icon.ramis.platform.core.Bundle#CTL_MapAction" name="displayName"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-DriverTopComponent.instance">
+                <!--com.icon.ramis.platform.core.DriverTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.icon.ramis.platform.core.DriverTopComponent"/>
+                <attr name="preferredID" stringvalue="DriverTopComponent"/>
+                <attr
+                    bundlevalue="com.icon.ramis.platform.core.Bundle#CTL_DriverAction" name="displayName"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-pawTopComponent.instance">
+                <!--com.icon.ramis.platform.core.pawTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.icon.ramis.platform.core.pawTopComponent"/>
+                <attr name="preferredID" stringvalue="pawTopComponent"/>
+                <attr
+                    bundlevalue="com.icon.ramis.platform.core.Bundle#CTL_pawAction" name="displayName"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-NurseTopComponent.instance">
+                <!--com.icon.ramis.platform.core.NurseTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.icon.ramis.platform.core.NurseTopComponent"/>
+                <attr name="preferredID" stringvalue="NurseTopComponent"/>
+                <attr
+                    bundlevalue="com.icon.ramis.platform.core.Bundle#CTL_NurseAction" name="displayName"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-PatientTopComponent.instance">
+                <!--com.icon.ramis.platform.core.PatientTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.icon.ramis.platform.core.PatientTopComponent"/>
+                <attr name="preferredID" stringvalue="PatientTopComponent"/>
+                <attr
+                    bundlevalue="com.icon.ramis.platform.core.Bundle#CTL_PatientAction" name="displayName"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-AssignmentTopComponent.instance">
+                <!--com.icon.ramis.platform.core.AssignmentTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.icon.ramis.platform.core.AssignmentTopComponent"/>
+                <attr name="preferredID" stringvalue="AssignmentTopComponent"/>
+                <attr
+                    bundlevalue="com.icon.ramis.platform.core.Bundle#CTL_AssignmentAction" name="displayName"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-StreamingTopComponent.instance">
+                <!--com.icon.ramis.platform.core.StreamingTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.icon.ramis.platform.core.StreamingTopComponent"/>
+                <attr name="preferredID" stringvalue="StreamingTopComponent"/>
+                <attr
+                    bundlevalue="com.icon.ramis.platform.core.Bundle#CTL_StreamingAction" name="displayName"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-AmbulanceTopComponent.instance">
+                <!--com.icon.ramis.platform.core.AmbulanceTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.icon.ramis.platform.core.AmbulanceTopComponent"/>
+                <attr name="preferredID" stringvalue="AmbulanceTopComponent"/>
+                <attr
+                    bundlevalue="com.icon.ramis.platform.core.Bundle#CTL_AmbulanceAction" name="displayName"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-DoctorTopComponent.instance">
+                <!--com.icon.ramis.platform.core.DoctorTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.icon.ramis.platform.core.DoctorTopComponent"/>
+                <attr name="preferredID" stringvalue="DoctorTopComponent"/>
+                <attr
+                    bundlevalue="com.icon.ramis.platform.core.Bundle#CTL_DoctorAction" name="displayName"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-EquipmentTopComponent.instance">
+                <!--com.icon.ramis.platform.core.EquipmentTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.icon.ramis.platform.core.EquipmentTopComponent"/>
+                <attr name="preferredID" stringvalue="EquipmentTopComponent"/>
+                <attr
+                    bundlevalue="com.icon.ramis.platform.core.Bundle#CTL_EquipmentAction" name="displayName"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-CityTopComponent.instance">
+                <!--com.icon.ramis.platform.core.CityTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.icon.ramis.platform.core.CityTopComponent"/>
+                <attr name="preferredID" stringvalue="CityTopComponent"/>
+                <attr
+                    bundlevalue="com.icon.ramis.platform.core.Bundle#CTL_CityAction" name="displayName"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-HospitalTopComponent.instance">
+                <!--com.icon.ramis.platform.core.HospitalTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.icon.ramis.platform.core.HospitalTopComponent"/>
+                <attr name="preferredID" stringvalue="HospitalTopComponent"/>
+                <attr
+                    bundlevalue="com.icon.ramis.platform.core.Bundle#CTL_HospitalAction" name="displayName"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="com-icon-ramis-platform-core-MapTopComponent.shadow">
+                <!--com.icon.ramis.platform.core.MapTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-icon-ramis-platform-core-MapTopComponent.instance"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-pawTopComponent.shadow">
+                <!--com.icon.ramis.platform.core.pawTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-icon-ramis-platform-core-pawTopComponent.instance"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-StreamingTopComponent.shadow">
+                <!--com.icon.ramis.platform.core.StreamingTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-icon-ramis-platform-core-StreamingTopComponent.instance"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-EquipmentTopComponent.shadow">
+                <!--com.icon.ramis.platform.core.EquipmentTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-icon-ramis-platform-core-EquipmentTopComponent.instance"/>
+            </file>
+        </folder>
+        <folder name="New">
+            <file name="com-icon-ramis-platform-core-DriverTopComponent.shadow">
+                <!--com.icon.ramis.platform.core.DriverTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-icon-ramis-platform-core-DriverTopComponent.instance"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-NurseTopComponent.shadow">
+                <!--com.icon.ramis.platform.core.NurseTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-icon-ramis-platform-core-NurseTopComponent.instance"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-PatientTopComponent.shadow">
+                <!--com.icon.ramis.platform.core.PatientTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-icon-ramis-platform-core-PatientTopComponent.instance"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-AmbulanceTopComponent.shadow">
+                <!--com.icon.ramis.platform.core.AmbulanceTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-icon-ramis-platform-core-AmbulanceTopComponent.instance"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-DoctorTopComponent.shadow">
+                <!--com.icon.ramis.platform.core.DoctorTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-icon-ramis-platform-core-DoctorTopComponent.instance"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-CityTopComponent.shadow">
+                <!--com.icon.ramis.platform.core.CityTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-icon-ramis-platform-core-CityTopComponent.instance"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-HospitalTopComponent.shadow">
+                <!--com.icon.ramis.platform.core.HospitalTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-icon-ramis-platform-core-HospitalTopComponent.instance"/>
+            </file>
+        </folder>
+        <folder name="Assignment">
+            <file name="com-icon-ramis-platform-core-AssignmentTopComponent.shadow">
+                <!--com.icon.ramis.platform.core.AssignmentTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-icon-ramis-platform-core-AssignmentTopComponent.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="com_icon_ramis_platform_core">
+                <file name="Map" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.icon.ramis.platform.core.MapTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.icon.ramis.platform.core//Map//EN"/>
+                </file>
+                <file name="Driver" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.icon.ramis.platform.core.DriverTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.icon.ramis.platform.core//Driver//EN"/>
+                </file>
+                <file name="paw" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.icon.ramis.platform.core.pawTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.icon.ramis.platform.core//paw//EN"/>
+                </file>
+                <file name="Nurse" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.icon.ramis.platform.core.NurseTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.icon.ramis.platform.core//Nurse//EN"/>
+                </file>
+                <file name="Patient" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.icon.ramis.platform.core.PatientTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.icon.ramis.platform.core//Patient//EN"/>
+                </file>
+                <file name="Assignment" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.icon.ramis.platform.core.AssignmentTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.icon.ramis.platform.core//Assignment//EN"/>
+                </file>
+                <file name="Streaming" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.icon.ramis.platform.core.StreamingTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.icon.ramis.platform.core//Streaming//EN"/>
+                </file>
+                <file name="Ambulance" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.icon.ramis.platform.core.AmbulanceTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.icon.ramis.platform.core//Ambulance//EN"/>
+                </file>
+                <file name="Doctor" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.icon.ramis.platform.core.DoctorTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.icon.ramis.platform.core//Doctor//EN"/>
+                </file>
+                <file name="Equipment" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.icon.ramis.platform.core.EquipmentTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.icon.ramis.platform.core//Equipment//EN"/>
+                </file>
+                <file name="City" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.icon.ramis.platform.core.CityTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.icon.ramis.platform.core//City//EN"/>
+                </file>
+                <file name="Hospital" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.icon.ramis.platform.core.HospitalTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.icon.ramis.platform.core//Hospital//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="com">
+                <folder name="icon">
+                    <folder name="ramis">
+                        <folder name="platform">
+                            <folder name="core">
+                                <file name="MapTopComponent">
+                                    <!--com.icon.ramis.platform.core.MapTopComponent-->
+                                    <attr name="settings.providerPath" stringvalue="xml/lookups//com_icon_ramis_platform_core/Map.instance"/>
+                                </file>
+                                <file name="DriverTopComponent">
+                                    <!--com.icon.ramis.platform.core.DriverTopComponent-->
+                                    <attr name="settings.providerPath" stringvalue="xml/lookups//com_icon_ramis_platform_core/Driver.instance"/>
+                                </file>
+                                <file name="pawTopComponent">
+                                    <!--com.icon.ramis.platform.core.pawTopComponent-->
+                                    <attr name="settings.providerPath" stringvalue="xml/lookups//com_icon_ramis_platform_core/paw.instance"/>
+                                </file>
+                                <file name="NurseTopComponent">
+                                    <!--com.icon.ramis.platform.core.NurseTopComponent-->
+                                    <attr name="settings.providerPath" stringvalue="xml/lookups//com_icon_ramis_platform_core/Nurse.instance"/>
+                                </file>
+                                <file name="PatientTopComponent">
+                                    <!--com.icon.ramis.platform.core.PatientTopComponent-->
+                                    <attr name="settings.providerPath" stringvalue="xml/lookups//com_icon_ramis_platform_core/Patient.instance"/>
+                                </file>
+                                <file name="AssignmentTopComponent">
+                                    <!--com.icon.ramis.platform.core.AssignmentTopComponent-->
+                                    <attr name="settings.providerPath" stringvalue="xml/lookups//com_icon_ramis_platform_core/Assignment.instance"/>
+                                </file>
+                                <file name="StreamingTopComponent">
+                                    <!--com.icon.ramis.platform.core.StreamingTopComponent-->
+                                    <attr name="settings.providerPath" stringvalue="xml/lookups//com_icon_ramis_platform_core/Streaming.instance"/>
+                                </file>
+                                <file name="AmbulanceTopComponent">
+                                    <!--com.icon.ramis.platform.core.AmbulanceTopComponent-->
+                                    <attr name="settings.providerPath" stringvalue="xml/lookups//com_icon_ramis_platform_core/Ambulance.instance"/>
+                                </file>
+                                <file name="DoctorTopComponent">
+                                    <!--com.icon.ramis.platform.core.DoctorTopComponent-->
+                                    <attr name="settings.providerPath" stringvalue="xml/lookups//com_icon_ramis_platform_core/Doctor.instance"/>
+                                </file>
+                                <file name="EquipmentTopComponent">
+                                    <!--com.icon.ramis.platform.core.EquipmentTopComponent-->
+                                    <attr name="settings.providerPath" stringvalue="xml/lookups//com_icon_ramis_platform_core/Equipment.instance"/>
+                                </file>
+                                <file name="CityTopComponent">
+                                    <!--com.icon.ramis.platform.core.CityTopComponent-->
+                                    <attr name="settings.providerPath" stringvalue="xml/lookups//com_icon_ramis_platform_core/City.instance"/>
+                                </file>
+                                <file name="HospitalTopComponent">
+                                    <!--com.icon.ramis.platform.core.HospitalTopComponent-->
+                                    <attr name="settings.providerPath" stringvalue="xml/lookups//com_icon_ramis_platform_core/Hospital.instance"/>
+                                </file>
+                            </folder>
+                        </folder>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="com_icon_ramis_platform_core">
+                <file name="Map.instance">
+                    <!--com.icon.ramis.platform.core.MapTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.icon.ramis.platform.core.MapTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.icon.ramis.platform.core.MapTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="Driver.instance">
+                    <!--com.icon.ramis.platform.core.DriverTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.icon.ramis.platform.core.DriverTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.icon.ramis.platform.core.DriverTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="paw.instance">
+                    <!--com.icon.ramis.platform.core.pawTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.icon.ramis.platform.core.pawTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.icon.ramis.platform.core.pawTopComponent"/>
+                    <attr boolvalue="false" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="Nurse.instance">
+                    <!--com.icon.ramis.platform.core.NurseTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.icon.ramis.platform.core.NurseTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.icon.ramis.platform.core.NurseTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="Patient.instance">
+                    <!--com.icon.ramis.platform.core.PatientTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.icon.ramis.platform.core.PatientTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.icon.ramis.platform.core.PatientTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="Assignment.instance">
+                    <!--com.icon.ramis.platform.core.AssignmentTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.icon.ramis.platform.core.AssignmentTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.icon.ramis.platform.core.AssignmentTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="Streaming.instance">
+                    <!--com.icon.ramis.platform.core.StreamingTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.icon.ramis.platform.core.StreamingTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.icon.ramis.platform.core.StreamingTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="Ambulance.instance">
+                    <!--com.icon.ramis.platform.core.AmbulanceTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.icon.ramis.platform.core.AmbulanceTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.icon.ramis.platform.core.AmbulanceTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="Doctor.instance">
+                    <!--com.icon.ramis.platform.core.DoctorTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.icon.ramis.platform.core.DoctorTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.icon.ramis.platform.core.DoctorTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="Equipment.instance">
+                    <!--com.icon.ramis.platform.core.EquipmentTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.icon.ramis.platform.core.EquipmentTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.icon.ramis.platform.core.EquipmentTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="City.instance">
+                    <!--com.icon.ramis.platform.core.CityTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.icon.ramis.platform.core.CityTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.icon.ramis.platform.core.CityTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="Hospital.instance">
+                    <!--com.icon.ramis.platform.core.HospitalTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.icon.ramis.platform.core.HospitalTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.icon.ramis.platform.core.HospitalTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

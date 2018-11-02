@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.icon.ramis.ramis.platform.core">
+    <module_version install_time="1540358149808" last="true" origin="installer" specification_version="1.0">
+        <file crc="3769133373" name="config/Modules/com-icon-ramis-ramis-platform-core.xml"/>
+        <file crc="2824796670" name="modules/com-icon-ramis-ramis-platform-core.jar"/>
+        <file crc="3907142410" name="modules/ext/com.icon.ramis.ramis-platform-core/cglib/cglib.jar"/>
+        <file crc="3390752368" name="modules/ext/com.icon.ramis.ramis-platform-core/com-jfoenix/jfoenix.jar"/>
+        <file crc="1991922540" name="modules/ext/com.icon.ramis.ramis-platform-core/commons-codec/commons-codec.jar"/>
+        <file crc="3229092384" name="modules/ext/com.icon.ramis.ramis-platform-core/de-jensd/fontawesomefx.jar"/>
+        <file crc="2050839146" name="modules/ext/com.icon.ramis.ramis-platform-core/dom4j/dom4j.jar"/>
+        <file crc="674952092" name="modules/ext/com.icon.ramis.ramis-platform-core/net-vpc-upa/upa-api.jar"/>
+        <file crc="3497970086" name="modules/ext/com.icon.ramis.ramis-platform-core/net-vpc-upa/upa-impl-core.jar"/>
+        <file crc="1492528480" name="modules/ext/com.icon.ramis.ramis-platform-core/net-vpc-upa/upa-impl.jar"/>
+        <file crc="1225809082" name="modules/ext/com.icon.ramis.ramis-platform-core/org-apache-ant/ant-launcher.jar"/>
+        <file crc="3062192090" name="modules/ext/com.icon.ramis.ramis-platform-core/org-apache-ant/ant.jar"/>
+        <file crc="231135607" name="modules/ext/com.icon.ramis.ramis-platform-core/org-apache-derby/derby.jar"/>
+        <file crc="1517778327" name="modules/ext/com.icon.ramis.ramis-platform-core/org-apache-poi/poi-ooxml-schemas.jar"/>
+        <file crc="699763645" name="modules/ext/com.icon.ramis.ramis-platform-core/org-apache-poi/poi-ooxml.jar"/>
+        <file crc="1292573210" name="modules/ext/com.icon.ramis.ramis-platform-core/org-apache-poi/poi.jar"/>
+        <file crc="3116060521" name="modules/ext/com.icon.ramis.ramis-platform-core/org-apache-xmlbeans/xmlbeans.jar"/>
+        <file crc="2331029463" name="modules/ext/com.icon.ramis.ramis-platform-core/org-ow2-asm/asm.jar"/>
+        <file crc="718358633" name="modules/ext/com.icon.ramis.ramis-platform-core/stax/stax-api.jar"/>
+        <file crc="3563037387" name="modules/ext/com.icon.ramis.ramis-platform-core/xml-apis/xml-apis.jar"/>
+    </module_version>
+</module>

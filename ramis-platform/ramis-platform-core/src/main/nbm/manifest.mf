@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Install: com/icon/ramis/platform/core/Installer.class
+OpenIDE-Module-Layer: com/icon/ramis/platform/core/layer.xml
+OpenIDE-Module-Localizing-Bundle: com/icon/ramis/platform/core/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+

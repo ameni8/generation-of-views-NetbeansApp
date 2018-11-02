@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+     
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="com-icon-ramis-platform-core-pawTopComponent.instance_hidden"/>
+            <file name="com.icon.ramis.platform.core.assignmentTopComponent.instance">
+                <attr name="noIconInMenu" boolvalue="false"/>
+            </file>
+            
+            <file name="com.icon.ramis.platform.core.assignmentTopComponent.instance_hidden"/>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Assignment"/>
+        <folder name="New">
+            
+            <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.ui.resources.Bundle"/>
+            <attr name="position" intvalue="400"/>
+            
+              <file name="City_hidden"/>
+            <folder name="Doctor"/>
+            <file name="Doctor_hidden"/>
+            <file name="com-icon-ramis-platform-core-CityTopComponent.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/com-icon-ramis-platform-core-CityTopComponent.instance"/>
+            </file>
+            <file name="com-icon-ramis-platform-core-DoctorTopComponent.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/com-icon-ramis-platform-core-DoctorTopComponent.instance"/>
+            </file>
+            <file name="com.icon.ramis.platform.core.assignmentTopComponent.shadow">
+                <attr name="instanceClass" stringvalue="com.icon.ramis.platform.core.assignmentTopComponent.instance"/>
+                <attr name="position" intvalue="1700"/>
+            </file>
+            
+            
+            
+            <file name="SeparatorBeforeGoToLine.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="1700"/>
+            </file>
+            <file name="core-windows-SeparatorAfterRecentList.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="700"/>
+            </file>
+            <file name="org-netbeans-core-windows-actions-RecentViewListAction.shadow_hidden">
+                <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-core-windows-actions-RecentViewListAction.instance"/>
+                <attr name="position" intvalue="600"/>
+            </file>
+            
+            <file name="com.icon.ramis.platform.core.Ambulance">
+                <attr name="originalFile" stringvalue="Actions/Window/com.icon.ramis.platform.core.Ambulance.instance"/>
+                <attr name="position" intvalue="600"/>
+            </file>
+            
+            <file name="org-netbeans-modules-favorites-SelectInFavorites.shadow_hidden">
+                <attr name="originalFile" stringvalue="Actions/Window/SelectDocumentNode/org-netbeans-modules-favorites-Select.instance"/>
+                <attr name="position" intvalue="2800"/>
+            </file>
+            <file name="org-openide-actions-GotoAction.shadow_hidden">
+                <attr name="originalFile" stringvalue="Actions/Edit/org-openide-actions-GotoAction.instance"/>
+                <attr name="position" intvalue="1800"/>
+            </file>
+        </folder>
+        <file name="assignment_hidden"/>
+      
+        <file name="GoTo_hidden"/>
+        <folder name="Window">
+            <file name="com-icon-ramis-platform-core-pawTopComponent.shadow_hidden"/>
+        </folder>
+        <folder name="assignment">
+            <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.ui.resources.Bundle"/>
+            <attr name="position" intvalue="400"/>
+            <file name="Doctor_hidden"/>
+            <file name="SeparatorBeforeGoToLine.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="1700"/>
+            </file>
+            <file name="com.icon.ramis.platform.core.assignmentTopComponent.shadow">
+                <attr name="instanceClass" stringvalue="com.icon.ramis.platform.core.AffectationTopComponent.instance"/>
+                <attr name="position" intvalue="1700"/>
+            </file>
+            <file name="com.icon.ramis.platform.core.Ambulance">
+                <attr name="originalFile" stringvalue="Actions/Window/com.icon.ramis.platform.core.Ambulance.instance"/>
+                <attr name="position" intvalue="600"/>
+            </file>
+            <file name="core-windows-SeparatorAfterRecentList.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="700"/>
+            </file>
+            <folder name="new">
+                <folder name="City"/>
+            </folder>
+        </folder>
+        <file name="assignment_hidden"/>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Modes">
+            <file name="bottomSlidingSide.wsmode" url="bottomSlidingSideWsmode.xml"/>
+            <file name="editor.wsmode" url="editorWsmode.xml"/>
+            <file name="explorer.wsmode" url="explorerWsmode.xml"/>
+            <file name="leftSlidingSide.wsmode" url="leftSlidingSideWsmode.xml"/>
+            <file name="output.wsmode" url="outputWsmode.xml"/>
+            <file name="properties.wsmode" url="propertiesWsmode.xml"/>
+            <file name="rightSlidingSide.wsmode" url="rightSlidingSideWsmode.xml"/>
+            <file name="topSlidingSide.wsmode" url="topSlidingSideWsmode.xml"/>
+        </folder>
+    </folder>
+</filesystem>
